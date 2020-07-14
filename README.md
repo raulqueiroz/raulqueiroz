@@ -1,16 +1,17 @@
-### Hi there 👋
+### Salut 👋 
+
+- 💻 **Analyste-programmeur Java**
+-  Brésilien
+- 🔭 Je travaille avec **Angular** et **Spring boot**
+- 👯 Je cherche à collaborer sur des projets qui utilisent **Angular** ou **Spring boot**
+
 
 <!--
 **raulqueiroz/raulqueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning angular and spring boot.
+
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
