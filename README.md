@@ -1,17 +1,10 @@
 ### Salut 👋 
-
+-  ![brasil-logo2](https://user-images.githubusercontent.com/45824103/87440999-f901d780-c5c8-11ea-8faf-cc48a127c43d.png)
+Brésilien
 - 💻 **Analyste-programmeur Java**
--  Brésilien
-- 🔭 Je travaille avec **Angular** et **Spring boot**
-- 👯 Je cherche à collaborer sur des projets qui utilisent **Angular** ou **Spring boot**
+- 🔭 Je travaille avec *Java 8*, *Spring Boot* et *Angular* 
+- ⏩ Toujours à la recherche de nouvelles technologies et défis. 
+- :books: Cherchant toujours apprendre et évoluer.
 
 
-<!--
-**raulqueiroz/raulqueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-- 🌱 I’m currently learning angular and spring boot.
-
-- 🤔 I’m looking for help with ...
-
--->
